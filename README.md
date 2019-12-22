@@ -1,2 +1,2 @@
 # DesignPattern
-Python DesignPattern Skeleton
+ Python Design Pattern Skeleton
